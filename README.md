@@ -1,7 +1,8 @@
-<h1 align="center"> Renovar Personal Access Tokens na Azure DevOps com PowerShell </h1>
+Renovar Personal Access Tokens na Azure DevOps com PowerShell
 
-No PowerShell realizar o login em sua conta Azure, estou utilizando o módulo Azure PowerShell
+No PowerShell realizar o login em sua conta Azure e executar o script
 
 ```
 Connect-AzAccount
 ```
+
