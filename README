@@ -1,5 +1,5 @@
 No PowerShell realizar o login em sua conta Azure, estou utilizando o módulo Azure PowerShell
 
-'''
+```
 Connect-AzAccount
-'''
+```
